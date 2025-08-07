@@ -6,5 +6,5 @@ function myfunction() {
 		console.warn("Button not found");
 	}
 }
-
+console.log('see');
 myfunction()
